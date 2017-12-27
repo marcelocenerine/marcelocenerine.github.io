@@ -3,7 +3,7 @@ layout: about
 title: About
 description: 
 menu: true
-order: 1
+order: 2
 ---
 
 Hey, welcome to my blog! 
